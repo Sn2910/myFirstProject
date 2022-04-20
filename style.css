@@ -1,0 +1,15 @@
+html{
+    font-size: 18px;
+}
+.small_text{
+ font-size: 0.7rem;
+}
+.container{
+    border: 1px solid black;
+    background-color: bisque;
+    max-width: 500px;
+    min-height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
